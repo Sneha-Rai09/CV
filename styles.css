@@ -1,0 +1,14 @@
+
+body {
+  background-color: #c5d7bd;
+}
+table{
+  background-color: #E4BAD4;
+  height: 1px;
+  width: 500px;
+}
+hr{
+ background-color: #1b1717;
+ border-style: dotted none none;
+ width: 100px;
+}
